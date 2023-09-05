@@ -1,0 +1,9 @@
+Controllers\BlogController.class
+EJB\ReadersFacade.class
+EJB\AbstractFacade.class
+EJB\ReadersFacadeLocal.class
+EJB\BlogsFacadeLocal.class
+EJB\BlogsFacade.class
+Entities\Blogs.class
+Entities\Readers.class
+Controllers\ReaderController.class
